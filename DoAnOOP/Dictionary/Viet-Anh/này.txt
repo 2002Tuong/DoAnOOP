@@ -1,0 +1,6 @@
+Pronounce: 
+- here
+=ở trên đời này+here (below)
+-This
+=cái áo này+this shirt
+

@@ -1,0 +1,8 @@
+Pronounce:  /di'frækʃn/
+*  danh từ
+- (vật lý) sự nhiễu xạ
+=diffraction of light+ sự nhiễu xạ ánh sáng
+=electron diffraction+ sự nhiễu xạ electron
+=crystal diffraction+ sự nhiễu xạ qua tinh thể
+=X-ray diffraction+ sự nhiễu xạ qua tia X
+

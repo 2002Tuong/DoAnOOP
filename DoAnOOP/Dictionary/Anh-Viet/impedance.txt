@@ -1,0 +1,6 @@
+Pronounce:  /im'pi:dəns/
+*  danh từ
+- (điện học) trở kháng
+=internal impedance+ trở kháng trong
+=acoustic impedance+ trở kháng âm học
+

@@ -1,0 +1,10 @@
+bike_xe_đạp
+boat_thuyền
+bus_xe_buýt
+car_xe_hơi
+glider_tàu_lượn
+helicopter_máy_bay_trực_thăng
+motorbike_xe_máy
+plane_máy_bay
+train_tàu_hỏa
+truck_xe_tải

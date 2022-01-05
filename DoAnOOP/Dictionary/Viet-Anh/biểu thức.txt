@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- Expression
+=biểu thức đại số+an algebraic expression
+

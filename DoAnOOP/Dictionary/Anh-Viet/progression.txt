@@ -1,0 +1,8 @@
+Pronounce:  /progression/
+*  danh từ
+- sự tiến tới; sự tiến bộ; sự tiến triển, sự phát triển
+- sự tiến hành
+- (toán học) cấp số
+=arithmetic progression+ cấp số cộng
+=geometric progression+ cấp số nhân
+

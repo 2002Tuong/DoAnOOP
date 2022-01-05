@@ -1,0 +1,9 @@
+Pronounce:  /prism/
+*  danh từ
+- lăng trụ
+=oblique prism+ lăng trụ xiên
+=regular prism+ lăng trụ đều
+=right prism+ lăng trụ thẳng
+- lăng kính
+- (số nhiều) các màu sắc lăng kính
+

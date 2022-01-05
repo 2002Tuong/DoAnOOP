@@ -1,0 +1,6 @@
+Pronounce:  /,histə'ri:sis/
+*  danh từ
+- (vật lý) hiện tượng trễ
+=magnetic hysteresis+ hiện tượng trễ từ
+=thermal hysteresis+ hiện tượng trễ nhiệt
+

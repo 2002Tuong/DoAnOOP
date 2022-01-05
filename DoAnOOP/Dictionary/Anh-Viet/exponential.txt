@@ -1,0 +1,6 @@
+Pronounce:  /,ekspou'nenʃəl/
+*  tính từ
+- (toán học) (thuộc) số mũ, theo luật số mũ
+=exponential curve+ đường số mũ
+=exponential distribution+ sự phân phối theo luật số mũ
+

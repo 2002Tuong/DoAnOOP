@@ -1,0 +1,4 @@
+Pronounce: 
+- Guess
+=Bạn chỉ nói mò thôi!+You are just guessing!
+

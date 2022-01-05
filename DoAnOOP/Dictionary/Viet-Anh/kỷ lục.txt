@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-record
+=phá kỷ lục+to break record
+

@@ -1,0 +1,10 @@
+arm_cánh_tay
+bone_xương
+brain_não
+ear_tai
+eye_mắt
+foot_chân
+hand_tay
+head_đầu
+heart_tim
+nose_mũi

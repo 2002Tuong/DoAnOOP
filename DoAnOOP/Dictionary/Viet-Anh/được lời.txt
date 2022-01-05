@@ -1,0 +1,3 @@
+Pronounce: 
+- Receive a promise; be given a promise
+

@@ -1,0 +1,5 @@
+Pronounce: 
+* verb
+-to manage
+=quản lý nhà máy+to manage a factory
+

@@ -1,0 +1,5 @@
+Pronounce: 
+* adj
+- murderous
+=kẻ sát nhân+murderer
+

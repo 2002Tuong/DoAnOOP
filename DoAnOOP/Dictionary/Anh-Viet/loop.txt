@@ -1,0 +1,15 @@
+Pronounce:  /lu:p/
+*  danh từ
+- vòng; thòng lọng; cái khâu, cái móc, khuyết áo)
+- đường nhánh, đường vòng (đường xe lửa, đường dây điện báo ((cũng) loop line)
+- (vật lý) bụng (sóng)
+- (điện học) cuộn; mạch
+=coupling loop+ cuộn ghép
+=closed loop+ mạch kín
+*  (kỹ thuật) móc (cần trục), vành đai, cốt đai
+- (hàng không) vòng nhào lộn (của máy bay)
+*  động từ
+- thắt lại thành vòng; làm thành móc
+- gài móc, móc lại
+- (hàng không) nhào lộn
+

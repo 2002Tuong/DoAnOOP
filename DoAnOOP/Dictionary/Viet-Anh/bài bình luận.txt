@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- Commentary
+=người bình luận, bình luận viên+commentator
+

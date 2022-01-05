@@ -1,0 +1,4 @@
+Pronounce: 
+- Depend[ent]
+=Kinh tế phụ thuộc+A dependent economy
+

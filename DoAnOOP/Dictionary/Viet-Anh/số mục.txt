@@ -1,0 +1,4 @@
+Pronounce: 
+- List
+=Số mục hàng hóa+a list of goods
+

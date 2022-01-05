@@ -1,0 +1,4 @@
+Pronounce: 
+* noun
+- number of pupils, number of attendants
+

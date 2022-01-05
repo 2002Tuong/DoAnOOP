@@ -1,0 +1,10 @@
+bear_con_gấu
+cat_con_mèo
+chicken_con_gà
+dog_con_chó
+duck_con_vịt
+elephant_con_voi
+fox_con_cáo
+horse_con_ngựa
+monkey_con_khỉ
+squirrel_con_sóc

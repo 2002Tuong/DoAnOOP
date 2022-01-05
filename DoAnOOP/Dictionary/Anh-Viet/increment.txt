@@ -1,0 +1,7 @@
+Pronounce:  /'inkrimənt/
+*  danh từ
+- sự lớn lên (của cây cối); độ lớn lên
+- tiền lãi, tiền lời
+- (toán học) lượng gia, số gia
+=increment of a function+ lượng gia của một hàm
+

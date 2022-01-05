@@ -1,0 +1,9 @@
+Pronounce:  /product/
+*  danh từ
+- sản vật, sản phẩm, vật phẩm
+- kết quả
+- (toán học) tích
+- (hoá học) sản phẩm
+=end product+ sản phẩm cuối
+=intermediate product+ sản phẩm trung gian
+

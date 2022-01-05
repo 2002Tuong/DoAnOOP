@@ -1,0 +1,9 @@
+Pronounce: 
+- (used on front of dates of a lunnar month's firt ten days) -st, -nd, -rd,
+-th
+=Mồng một+The first
+=Mồng hai+The second
+=Mồng ba+The third
+=Mồng mười tháng giêng+The tenth of the first lunar month.
+-(địa phương) như mào
+

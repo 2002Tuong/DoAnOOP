@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- atom
+=bom nguyên tử+atom bomb
+

@@ -1,0 +1,6 @@
+Pronounce:  /'æksiəl/
+*  tính từ
+- (thuộc) trục; quanh trục
+=axial symmetry+ sự xứng đối qua trục
+=axial vector+ vectơ trục
+

@@ -1,0 +1,4 @@
+Pronounce: 
+* noun
+- component; composition class status, social back-ground
+

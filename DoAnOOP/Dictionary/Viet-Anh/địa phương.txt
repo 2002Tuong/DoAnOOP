@@ -1,0 +1,5 @@
+Pronounce: 
+- Region,area (is a country)
+=Chính quyền địa phương+A region (local) goverment
+=Chủ nghĩa địa phương+regionalism
+

@@ -1,0 +1,5 @@
+Pronounce: 
+- Photocopy
+=Bản sao chụp+Photocopy
+=Máy sao chụp+Photocopier
+

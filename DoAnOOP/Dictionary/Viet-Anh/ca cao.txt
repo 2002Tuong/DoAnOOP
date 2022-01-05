@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-(bot) Cacao
+=hột ca_cao+cacao-seed
+

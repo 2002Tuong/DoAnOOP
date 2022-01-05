@@ -1,0 +1,5 @@
+Pronounce: 
+* adj
+- High-frequency
+=dòng điện cao tần+a high-frequency current
+

@@ -1,0 +1,4 @@
+Pronounce: 
+- Omit, miss out
+=Bỏ sót một dòng+To miss out a line
+

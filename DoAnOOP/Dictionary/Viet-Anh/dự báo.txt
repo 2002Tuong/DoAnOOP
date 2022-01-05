@@ -1,0 +1,4 @@
+Pronounce: 
+- Forecast
+=Dự báo thời tiết+A weather forecast
+

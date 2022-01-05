@@ -1,0 +1,4 @@
+Pronounce: 
+- Alert, warn
+=Đánh động cho đồng bọn+To alert (warn) one's accomplices
+

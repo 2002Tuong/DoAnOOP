@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-art
+=trường mỹ thuật+art-school
+

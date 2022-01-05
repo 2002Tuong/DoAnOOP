@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- method;system; experient
+=phương pháp thực nghiệm+experimental method
+

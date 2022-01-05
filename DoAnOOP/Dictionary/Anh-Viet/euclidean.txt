@@ -1,0 +1,5 @@
+Pronounce:  /'ju:klidiən/
+*  danh từ
+- (toán học) (thuộc) O-clit
+=euclidean algorithm+ thuật toán O-clit
+

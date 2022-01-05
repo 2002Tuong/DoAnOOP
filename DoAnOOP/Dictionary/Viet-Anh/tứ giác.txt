@@ -1,0 +1,6 @@
+Pronounce: 
+* adj
+- quadrilateral
+* noun
+- quadrangle
+

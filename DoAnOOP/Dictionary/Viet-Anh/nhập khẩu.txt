@@ -1,0 +1,5 @@
+Pronounce: 
+* verb
+- to import
+=sự nhập khẩu+importation
+

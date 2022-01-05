@@ -1,0 +1,6 @@
+Pronounce: 
+- Humus
+-Dust, particle
+=Mùn cưa+Sawdust
+=Mùn thớt+Decayed particles from a block
+

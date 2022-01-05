@@ -1,0 +1,9 @@
+Pronounce:  /'kwɔdrik/
+*  tính từ
+- (toán học) Quađric, bậc hai
+=quadric cone+ mặt nón bậc hai
+=quadric cylinder+ mặt trụ bậc hai
+*  danh từ
+- (toán học) Quađric
+=quadric of revolution+ quađric tròn xoay
+

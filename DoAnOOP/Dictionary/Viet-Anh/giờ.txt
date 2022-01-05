@@ -1,0 +1,7 @@
+Pronounce: 
+* noun
+- hour
+=nửa giờ+half an hour
+-Time
+=đúng giờ rồi!+Time's up!
+

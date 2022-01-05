@@ -1,0 +1,4 @@
+Pronounce: 
+- (toán) Reduce
+=Rút gọn một phân số+To reduce a fraction
+

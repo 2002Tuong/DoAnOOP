@@ -1,0 +1,5 @@
+Pronounce: 
+* adj
+- glib; voluble
+=lém miệng+to have a glib tongue
+

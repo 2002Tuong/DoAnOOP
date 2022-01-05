@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-Cardboard
+=hộp cạt_tông+Carboard box
+

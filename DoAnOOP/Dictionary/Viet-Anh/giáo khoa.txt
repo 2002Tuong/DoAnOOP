@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- subject of study
+=sách giáo khoa+textbook
+

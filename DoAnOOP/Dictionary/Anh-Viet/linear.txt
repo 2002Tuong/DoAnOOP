@@ -1,0 +1,8 @@
+Pronounce:  /'liniə/
+*  tính từ
+- (thuộc) nét kẻ, thuộc đường kẻ, (thuộc) đường vạch
+- dài, hẹp và đều nét (như một đường kẻ)
+- (toán học) tuyến
+=linear equation+ phương trình tuyến
+=linear algebra+ đại số tuyến
+

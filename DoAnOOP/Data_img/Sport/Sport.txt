@@ -1,0 +1,10 @@
+athletics_điền_kinh
+badminton_cầu_lông
+baseball_bóng_chày
+basketball_bóng_rổ
+climbing_leo_núi
+football_bóng_đá
+golf_đánh_gôn
+swimming_bơi_lội
+tennis_quần_vợt
+volleyball_bóng_chuyền

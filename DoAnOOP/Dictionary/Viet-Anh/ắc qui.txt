@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-battery
+=nạp ắc_qui+to charge a battery
+

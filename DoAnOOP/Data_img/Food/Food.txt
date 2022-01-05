@@ -1,0 +1,10 @@
+bread_bánh_mì
+cheese_phô_mai
+donut_bánh_donut
+hotdog_bánh_mì_kẹp_xúc_xích
+hotpot_lẩu
+noddles_mì_tôm
+pizza_bánh_pizza
+salad_rau_trộn
+sandwich_bánh_mì_kẹp
+steak_bò_bít_tết

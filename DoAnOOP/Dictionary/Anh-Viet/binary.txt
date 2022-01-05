@@ -1,0 +1,8 @@
+Pronounce:  /'bainəri/
+*  tính từ
+- đôi, nhị nguyên, nhị phân
+=binary measure+ (âm nhạc) nhịp đôi
+=binary operation+ (toán học) phép toán nhị phân
+=binary fraction+ (toán học) phân số nhị phân
+=binary system+ hệ nhị nguyên
+

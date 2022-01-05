@@ -1,0 +1,6 @@
+Pronounce:  /bai'sektə/ (bisectrix) /bai'sektriks/
+*  danh từ
+- đường phân đôi
+- (văn học) đường phân giác
+=bisector of an angle+ (toán học) đường phân giác của một góc
+

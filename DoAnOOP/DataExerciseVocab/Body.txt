@@ -1,0 +1,20 @@
+Body/arm
+M arm arm bone brain ear
+Body/bone
+M bone arm bone eye hand
+Body/brain
+M brain hand head truck brain
+Body/ear
+M ear basketball eye ear nose
+Body/eye
+M eye boat mango eye heart
+Body/foot
+M foot nose foot head arm
+Body/hand
+M hand brain bone ear hand
+Body/head
+M head head heart nose eye
+Body/heart
+M heart arm bone heart eye
+Body/nose
+M nose heart nose arm bone

@@ -1,0 +1,10 @@
+Pronounce:  /nʌl/
+*  tính từ
+- vô hiệu, không có hiệu lực
+=null and void+ không còn hiệu lực nữa, không còn giá trị nữa (đạo luật, tờ di chúc, chứng thư, hiệp ước...)
+- vô dụng, vô giá trị
+- không có cá tính, không biểu lộ tâm tính
+- (toán học) bằng không, không
+*  danh từ
+- chữ dùng để đánh lạc hướng (trong mật mã)
+

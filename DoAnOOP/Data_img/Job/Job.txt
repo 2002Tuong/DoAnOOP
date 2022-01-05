@@ -1,0 +1,10 @@
+architect_kiến_trúc_sư
+bartender_pha_chế_rượu
+carpenter_thợ_mộc
+cook_đầu_bếp
+doctor_bác_sĩ
+farmer_nông_dân
+judge_thẩm_phán
+policeman_cảnh_sát
+teacher_giáo_viên
+waiter_phục_vụ

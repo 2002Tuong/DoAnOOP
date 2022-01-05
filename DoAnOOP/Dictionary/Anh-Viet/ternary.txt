@@ -1,0 +1,8 @@
+Pronounce:  /'tə:nəri/
+*  tính từ
+- (toán học) tam phân; tam nguyên
+=a ternary numeration+ phép đếm tam phân
+=ternary cubic form+ dạng cubic tam phân
+- bậc ba
+- (hoá học) gồm ba yếu tố, ba
+

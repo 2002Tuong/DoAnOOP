@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- event
+=sự kiện lịch sử+historic event
+

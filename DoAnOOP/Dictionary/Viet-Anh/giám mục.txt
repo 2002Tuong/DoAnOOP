@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- bishop
+=tổng giám mục+arch-bishop
+

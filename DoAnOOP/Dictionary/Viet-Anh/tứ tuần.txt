@@ -1,0 +1,6 @@
+Pronounce: 
+* adj
+- forty
+* noun
+- forties
+

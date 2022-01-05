@@ -1,0 +1,8 @@
+Pronounce:  /ig'niʃn/
+*  danh từ
+- sự đốt cháy, sự bốc cháy
+- sự mồi lửa, sự đánh lửa
+=battery ignition+ sự mồi lửa bằng ắc quy
+=spark ignition+ sự mồi bằng tia lửa
+- bộ phận mồi lửa, bộ phận đánh lửa (trong máy) ((viết tắt) ign)
+

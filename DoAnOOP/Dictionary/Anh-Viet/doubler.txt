@@ -1,0 +1,6 @@
+Pronounce:  /'dʌblə/
+*  danh từ
+- máy nhân đôi
+=voltage doubler+ máy nhân đôi thế hiệu
+=frequency doubler+ máy nhân đôi tần số
+

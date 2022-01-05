@@ -1,0 +1,4 @@
+Pronounce: 
+* noun
+- address, direction, destination
+

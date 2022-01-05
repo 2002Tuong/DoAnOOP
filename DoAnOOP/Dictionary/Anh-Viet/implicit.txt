@@ -1,0 +1,9 @@
+Pronounce:  /im'plisit/
+*  tính từ
+- ngấm, ngấm ngầm; ẩn tàng
+=an implicit threat+ mối đe doạ ngầm
+- hoàn toàn tuyệt đối
+=implicit obedience+ sự tuân lệnh tuyệt đối
+- (toán học) ẩn
+=implicit function+ hàm ẩn
+

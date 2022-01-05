@@ -1,0 +1,20 @@
+Fruit/apple
+M apple apple banana coconut durian
+Fruit/banana
+M banana coconut durian mango banana
+Fruit/coconut
+M coconut orange pineapple strawberry coconut
+Fruit/durian
+M durian lemon durian orange tomato
+Fruit/lemon
+M lemon apple mango lemon tomato
+Fruit/mango
+M mango doctor bike mango pineapple
+Fruit/orange
+M orange tomato train coconut orange
+Fruit/pineapple
+M pineapple apple noddles hand pineapple
+Fruit/strawberry
+M strawberry strawberry durian orange lemon
+Fruit/tomato
+M tomato lemon coconut tomato apple

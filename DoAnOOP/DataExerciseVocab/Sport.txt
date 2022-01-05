@@ -1,0 +1,18 @@
+Sport/athletics
+M athletics badminton athletics basketball baseball
+Sport/badminton
+M badminton basketball baseball badminton swimming
+Sport/baseball
+M baseball badminton swimming golf baseball
+Sport/basketball
+M basketball golf basketball football tennis
+Sport/climbing
+M climbing golf climbing football volleyball
+Sport/football
+M football athletics badminton football golf
+Sport/swimming
+M swimming football baseball volleyball swimming
+Sport/tennis
+M tennis volleyball tennis swimming golf
+Sport/volleyball
+M volleyball volleyball football basketball athletics

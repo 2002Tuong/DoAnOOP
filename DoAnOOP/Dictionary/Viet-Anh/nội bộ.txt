@@ -1,0 +1,4 @@
+Pronounce: 
+- internal
+=sự chia rẽ nội bộ+internal division
+

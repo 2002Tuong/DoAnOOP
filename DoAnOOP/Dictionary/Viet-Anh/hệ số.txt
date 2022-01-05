@@ -1,0 +1,4 @@
+Pronounce: 
+- Coefficient
+=Hệ số nén+Coefficient of compressibility
+

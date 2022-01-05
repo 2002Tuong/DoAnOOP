@@ -1,0 +1,4 @@
+Pronounce: 
+- Send a dispatch, dispatch
+=Phi báo lệnh chiến đấu+To dispatch combat orders
+

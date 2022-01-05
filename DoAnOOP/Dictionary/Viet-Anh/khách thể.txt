@@ -1,0 +1,4 @@
+Pronounce: 
+- Object
+=Khách thể và chủ thể+Object and subject
+

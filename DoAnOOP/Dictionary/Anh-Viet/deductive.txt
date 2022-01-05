@@ -1,0 +1,6 @@
+Pronounce:  /di'dʌktiv/
+*  tính từ
+- suy diễn
+=deductive logic+ lôgic suy diễn
+=deductive method+ phương pháp suy diễn
+

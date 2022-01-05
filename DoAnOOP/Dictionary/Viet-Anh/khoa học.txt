@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- science
+=nhà khoa học+scientist
+

@@ -1,0 +1,3 @@
+Pronounce: 
+- Constrain (to follow some rule of behaviour)
+

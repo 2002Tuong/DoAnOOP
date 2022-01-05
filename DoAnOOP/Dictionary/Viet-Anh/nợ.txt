@@ -1,0 +1,7 @@
+Pronounce: 
+* noun
+- debt
+=người mắc nợ+debtor
+* verb
+- to owe
+

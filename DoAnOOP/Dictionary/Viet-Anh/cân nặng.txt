@@ -1,0 +1,4 @@
+Pronounce: 
+- Weigh
+=Anh ấy cân nặng 56 kilô+He weighs 56 kilos
+

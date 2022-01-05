@@ -1,0 +1,4 @@
+Pronounce: 
+- Split, differentiate
+=Phân hóa giai cấp+To differentiate between classes
+

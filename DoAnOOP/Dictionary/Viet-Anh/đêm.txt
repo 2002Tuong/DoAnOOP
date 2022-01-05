@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- night
+=nửa đêm+mid-night
+

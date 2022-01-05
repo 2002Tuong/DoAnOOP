@@ -1,0 +1,9 @@
+Pronounce:  /'rektifaiəbl/
+*  tính từ
+- có thể sửa chữa được; có thể sửa cho thẳng được
+- (vật lý) có thể chỉnh lưu
+- (hoá học) có thể cất lại, có thể tinh cất
+- (rađiô) có thể tách sóng
+- (toán học) cầu trường được
+=rectifiable curve+ đường cầu trường được
+

@@ -1,0 +1,6 @@
+Pronounce: 
+* adj
+- rusty,
+* noun
+- rust
+

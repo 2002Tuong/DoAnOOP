@@ -1,0 +1,20 @@
+Job/architect
+M architect architect bartender farmer doctor
+Job/bartender
+M bartender architect policeman bartender cook
+Job/carpenter
+M carpenter bartender carpenter waiter teacher
+Job/cook
+M cook cook judge farmer doctor
+Job/doctor
+M doctor judge architect doctor cook
+Job/farmer
+M farmer judge policeman teacher farmer
+Job/judge
+M judge judge carpenter cook farmer
+Job/policeman
+M policeman policeman judge bartender teacher
+Job/teacher
+M teacher waiter teacher farmer cook
+Job/waiter
+M waiter waiter teacher judge cook

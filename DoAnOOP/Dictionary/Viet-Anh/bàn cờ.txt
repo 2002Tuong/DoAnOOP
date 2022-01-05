@@ -1,0 +1,6 @@
+Pronounce: 
+* noun
+- Chessboard
+- Chequered board
+=ruộng bàn cờ+a chequered field
+

@@ -1,0 +1,20 @@
+Animal/bear
+M bear bear dog cat horse
+Animal/cat
+M cat fox monkey cat chicken
+Animal/chicken
+M chicken elephant chicken monkey duck
+Animal/dog
+M dog dog fox horse car
+Animal/duck
+M duck duck plane monkey squirrel
+Animal/elephant
+M elephant horse fox cat elephant
+Animal/fox
+M fox bear fox duck cat
+Animal/horse
+M horse cat bear squirrel horse
+Animal/monkey
+M monkey cat monkey bear dog
+Animal/squirrel
+M squirrel dog duck squirrel horse

@@ -1,0 +1,6 @@
+Pronounce: 
+* noun
+- Transformer
+=biến thế tăng thế+a step-up transformer
+=biến thế giảm thế+a step-down transformer
+

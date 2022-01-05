@@ -1,0 +1,4 @@
+Pronounce: 
+- Building components
+=Cấu kiện đúc sẵn+Prefabricated building components
+

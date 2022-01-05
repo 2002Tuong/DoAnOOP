@@ -1,0 +1,4 @@
+Pronounce: 
+- Delayed-action
+=Bom nổ chậm+Delayed-action bomb
+

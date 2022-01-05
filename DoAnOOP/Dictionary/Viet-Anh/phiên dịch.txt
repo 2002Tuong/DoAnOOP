@@ -1,0 +1,5 @@
+Pronounce: 
+* verb
+- to translate
+=phiên dịch viên+translator
+

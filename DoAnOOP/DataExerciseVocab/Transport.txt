@@ -1,0 +1,20 @@
+Transport/bike
+M bike boat bus bike plane
+Transport/boat
+M boat boat bike car gilder
+Transport/bus
+M bus motorbike helicopter bus train
+Transport/car
+M car gilder car truck bike
+Transport/glider
+M glider bike truck bus glider
+Transport/helicopter
+M helicopter bus helicopter train truck
+Transport/motorbike
+M motorbike plane truck motorbike boat
+Transport/plane
+M plane helicopter plane truck car
+Transport/train
+M train train car gilder truck
+Transport/truck
+M truck bike boat truck plane

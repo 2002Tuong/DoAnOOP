@@ -1,0 +1,6 @@
+Pronounce: 
+* noun
+- class; rank; kind; category
+=vé hạng nhất+first class ticket
+=hạng bét+lowest class
+

@@ -1,0 +1,7 @@
+Pronounce:  /'eipɔs,teri'ɔ:rai/
+*  phó từ & tính từ
+- theo phép quy nạp
+=method a_posteriori+ phương pháp quy nạp
+- hậu nghiệm
+=probability a_posteriori+ (toán học) xác suất hậu nghiệm
+

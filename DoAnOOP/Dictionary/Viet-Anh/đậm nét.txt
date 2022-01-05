@@ -1,0 +1,4 @@
+Pronounce: 
+- Bold
+=Hình dáng đậm nét+A bold outline
+

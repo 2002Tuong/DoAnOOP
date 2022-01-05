@@ -1,0 +1,4 @@
+Pronounce: 
+- Score (a goal)
+-Finish at a given moment
+

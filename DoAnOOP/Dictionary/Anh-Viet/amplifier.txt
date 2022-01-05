@@ -1,0 +1,8 @@
+Pronounce:  /'æmplifaiə/
+*  danh từ
+- máy khuếch đại, bộ khuếch đại
+=buffer amplifier+ bộ khuếch đại đệm
+=harmonic amplifier+ máy khuếch đại tần hài
+=pulse amplifier+ bộ khuếch đại xung
+=cascade amplifier+ bộ khuếch đại có tầng
+

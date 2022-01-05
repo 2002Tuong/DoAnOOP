@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- temperature; degree of heat
+=nhiệt độ kế+thermometer
+

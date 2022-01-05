@@ -1,0 +1,6 @@
+Pronounce:  /ri'greʃn/
+*  danh từ
+- sự thoái bộ, sự thoái lui; sự đi giật lùi, sự đi ngược trở lại
+- (toán học) hồi quy
+=plane of regression+ mặt phẳng hồi quy
+

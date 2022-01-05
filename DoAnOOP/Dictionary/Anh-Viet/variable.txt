@@ -1,0 +1,14 @@
+Pronounce:  /'veəriəbl/
+*  tính từ
+- có thể thay đổi
+- hay thay đổi; thay đổi, biến thiên
+=variable length+ chiều dài thay đổi
+=variable function+ hàm số biến thiên
+=variable flow+ dòng chảy biến thiên
+=variable wind+ gió hay thay đổi
+- (từ Mỹ,nghĩa Mỹ),  (địa lý,địa chất) variable zone ôn đới
+*  danh từ
+- (toán học) biến số
+- (hàng hải) gió thay đổi
+- (số nhiều) (hàng hải) vùng (biển) không có gió thường xuyên
+

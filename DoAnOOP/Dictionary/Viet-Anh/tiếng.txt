@@ -1,0 +1,4 @@
+Pronounce: 
+* noun
+- sound, voice language name, reputation hour
+

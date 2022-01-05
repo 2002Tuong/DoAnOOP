@@ -1,0 +1,6 @@
+Pronounce:  /'hi:tkə'pæsiti/
+*  danh từ
+- (vật lý) nhiệt dung; tỷ nhiệt
+=atomic heat_capacity+ tỷ nhiệt nguyên tử
+=molecular heat_capacity+ tỷ nhiệt phân tử
+

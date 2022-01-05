@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- shelf
+=kệ sách+book-shelf
+

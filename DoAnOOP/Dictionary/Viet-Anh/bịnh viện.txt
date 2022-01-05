@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-clinic; hospital
+= bịnh_viện đa khoa+a polyclinic
+

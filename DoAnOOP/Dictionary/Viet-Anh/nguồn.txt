@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- source; spring
+=nguồn sáng+light source
+

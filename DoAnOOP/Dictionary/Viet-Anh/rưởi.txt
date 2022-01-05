@@ -1,0 +1,7 @@
+Pronounce: 
+- Fifty, five hundred, five thousand, half
+=Một trăm rưởi+A hundred fifty
+=Một nghìn rưởi+A thousand and five hundred
+=Một vạn rưởi+Fifteen thousand
+=Một triệu rưởi+A million and a half
+

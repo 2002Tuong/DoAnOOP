@@ -1,0 +1,4 @@
+Pronounce: 
+- Flutter, wave
+=Cờ phấp phới trước gió+Flags fluttered in the wind
+

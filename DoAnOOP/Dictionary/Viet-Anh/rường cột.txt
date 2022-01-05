@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- supports and columns
+-(hình ảnh) keystone
+

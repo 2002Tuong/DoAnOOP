@@ -1,0 +1,4 @@
+Pronounce: 
+- Inventory
+=Kiểm kê những gì có trong nhà+To inventory the contents of a house
+

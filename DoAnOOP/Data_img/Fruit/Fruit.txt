@@ -1,0 +1,10 @@
+apple_quả_táo
+banana_quả_chuối
+coconut_quả_dừa
+durian_quả_sầu_riêng
+lemon_quả_chanh
+mango_quả_xoài
+orange_quả_cam
+pineapple_quả_dứa
+strawberry_quả_dâu
+tomato_quả_cà_chua

@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- Octet
+=phường bát âm+an octet
+

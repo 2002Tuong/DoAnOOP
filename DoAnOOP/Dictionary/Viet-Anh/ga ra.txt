@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-garage
+=chủ gara+garage keeper
+

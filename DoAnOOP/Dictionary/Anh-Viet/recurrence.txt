@@ -1,0 +1,9 @@
+Pronounce:  /ri'kʌrəns/
+*  danh từ
+- sự trở lại (một vấn đề...)
+- sự trở lại trong trí nhớ
+- sự tái diễn, sự diễn lại
+- (y học) sự phát sinh lại
+- (toán học) phép truy toán
+=recurrence theorem+ định lý truy toán
+

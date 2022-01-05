@@ -1,0 +1,3 @@
+Pronounce: 
+- Flask (dùng trong phòng thí nghiệm)
+

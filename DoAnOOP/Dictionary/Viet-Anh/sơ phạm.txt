@@ -1,0 +1,5 @@
+Pronounce: 
+- First infraction, first violation
+-Committed for the first time
+=Lỗi sơ phạm+Mistake committed for the first time
+

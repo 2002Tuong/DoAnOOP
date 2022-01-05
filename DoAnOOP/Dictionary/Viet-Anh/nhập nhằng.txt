@@ -1,0 +1,5 @@
+Pronounce: 
+- Show confusion
+-Ambiguous case
+=nhập nhà nhập nhằng (láy, ý tăng)
+

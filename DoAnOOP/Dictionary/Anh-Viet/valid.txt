@@ -1,0 +1,9 @@
+Pronounce:  /'vælid/
+*  tính từ
+- vững chắc, có căn cứ
+=a valid argument+ một lý lẽ vững chắc
+- (pháp lý) có giá trị, có hiệu lực; hợp lệ
+=valid contract+ hợp đồng có giá trị (về pháp lý)
+=valid passport+ hộ chiếu hợp lệ
+=the ticket is no longer valid+ vé không còn giá trị nữa
+

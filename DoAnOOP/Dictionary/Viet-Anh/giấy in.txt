@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-printing-paper 
+=giấy in báo+news-print
+

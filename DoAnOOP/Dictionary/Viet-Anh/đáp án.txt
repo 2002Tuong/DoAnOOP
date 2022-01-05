@@ -1,0 +1,3 @@
+Pronounce: 
+- Detailed schemed solution (answer), model solution, key (to exercises, problems..)
+

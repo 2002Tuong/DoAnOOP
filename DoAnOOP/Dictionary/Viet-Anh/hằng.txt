@@ -1,0 +1,5 @@
+Pronounce: 
+- always; often
+* noun
+- the moon
+

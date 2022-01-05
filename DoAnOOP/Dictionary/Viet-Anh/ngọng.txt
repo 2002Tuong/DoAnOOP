@@ -1,0 +1,5 @@
+Pronounce: 
+- Lisp.
+-(khẩu ngữ) Be stupid, be dull
+=Nó không ngọng đến thế đâu nhé+He is not so stupid
+

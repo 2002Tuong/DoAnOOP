@@ -1,0 +1,4 @@
+Pronounce: 
+- Element
+=Những phần tử lạc hậu.+The backward elements
+

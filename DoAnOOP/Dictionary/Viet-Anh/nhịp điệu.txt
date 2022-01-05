@@ -1,0 +1,7 @@
+Pronounce: 
+- Rhythm
+=Nhịp điệu khoan thai+A larghetto rhythm
+=Thể dục nhịp điệu+Eurythmics
+#Syn
+- như nhịp_độ
+

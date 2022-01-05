@@ -1,0 +1,6 @@
+Pronounce:  /'stætiks/ (statical) /'stætiksəl/
+*  tính từ
+- tĩnh, (thuộc) tĩnh học
+=static pressure+ áp lực tĩnh
+=static electricity+ tĩnh điện
+

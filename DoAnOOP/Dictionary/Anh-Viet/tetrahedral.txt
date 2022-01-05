@@ -1,0 +1,6 @@
+Pronounce:  /'tetrə'hedrəl/
+*  tính từ
+- (toán học) (thuộc) khối bốn mặt, tứ diện
+=tetrahedral coordinates+ toạ độ tứ diện
+=tetrahedral function+ hàm tứ diện
+

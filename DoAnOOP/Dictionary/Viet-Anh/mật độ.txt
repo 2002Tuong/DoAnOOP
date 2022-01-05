@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- density
+=mật độ lưu thông+traffic density
+

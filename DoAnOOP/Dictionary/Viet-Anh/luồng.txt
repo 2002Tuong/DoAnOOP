@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- jet
+=luồng hơi+stream jet
+

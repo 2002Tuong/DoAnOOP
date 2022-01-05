@@ -1,0 +1,6 @@
+Pronounce: 
+* noun
+- Industry
+=công nghiệp nặng+Heavy Industry
+=công nghiệp nhẹ+light industry
+

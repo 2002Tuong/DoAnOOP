@@ -1,0 +1,20 @@
+Food/bread
+M bread noddles bread cheese donut
+Food/cheese
+M cheese cheese truck car steak
+Food/donut
+M donut bread donut pizza eye
+Food/hotdog
+M hotdog sandwich pizza hotdog steak
+Food/hotpot
+M hotpot noddles pizza salad hotpot
+Food/noddles
+M noddles steak bread cheese noddles
+Food/pizza
+M pizza salad noddles pizza donut
+Food/salad
+M salad salad sandwich hotdog hotpot
+Food/sandwich
+M sandwich truck glider pizza sandwich
+Food/steak
+M steak steak badminton swimming tomato

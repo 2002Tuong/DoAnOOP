@@ -1,0 +1,4 @@
+Pronounce: 
+- To take temperature (of a patient)
+-Clinical thermometer
+

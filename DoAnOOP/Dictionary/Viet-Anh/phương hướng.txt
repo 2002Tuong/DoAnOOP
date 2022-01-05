@@ -1,0 +1,4 @@
+Pronounce: 
+- Direction ; line
+=Phương hướng hành động+Line of action
+

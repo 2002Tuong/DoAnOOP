@@ -1,0 +1,5 @@
+Pronounce:  /vek'tɔ:riəl/
+*  tính từ
+- (toán học) (thuộc) vectơ
+=vectorial calculus+ phép tính vectơ
+

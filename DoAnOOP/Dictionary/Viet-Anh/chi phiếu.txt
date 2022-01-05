@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+-cheque ; cheek
+=lãnh chi_phiếu+to cash a cheque
+

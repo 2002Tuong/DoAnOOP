@@ -1,0 +1,4 @@
+Pronounce: 
+-all day; day long
+=ngủ cả_ngày+to sleep all day
+

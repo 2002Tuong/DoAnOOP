@@ -1,0 +1,5 @@
+Pronounce: 
+* adj
+- cold
+=trời lạnh+It is cold
+

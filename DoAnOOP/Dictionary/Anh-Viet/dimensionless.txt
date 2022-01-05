@@ -1,0 +1,6 @@
+Pronounce:  /di'menʃnlis/
+*  tính từ
+- không có chiều; không có kích thước
+- (toán học) không thứ nguyên
+=dimensionless parameter+ tham biến không thứ nguyên
+

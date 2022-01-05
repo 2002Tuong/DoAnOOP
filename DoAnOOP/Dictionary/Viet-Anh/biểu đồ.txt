@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- Graph, diagram
+=biểu đồ phát triển sản xuất+a production development graph
+

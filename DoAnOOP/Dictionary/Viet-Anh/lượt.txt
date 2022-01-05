@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- time; turn
+=lần lượt+in turn
+

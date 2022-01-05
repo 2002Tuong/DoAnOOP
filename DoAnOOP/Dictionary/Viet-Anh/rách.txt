@@ -1,0 +1,5 @@
+Pronounce: 
+* adj
+- torn
+=giấy rách+a torn piece of paper
+

@@ -1,0 +1,3 @@
+Pronounce: 
+- Reduce to the next lower rank (grade)
+

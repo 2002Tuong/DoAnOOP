@@ -1,0 +1,5 @@
+Pronounce: 
+- như đại số học Algebraic 
+=Biểu thức đại số+An algebraic expression
+=Số đại số+An algebraic nummber
+

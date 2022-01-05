@@ -1,0 +1,6 @@
+Pronounce:  /dai'æmitrəl/
+*  tính từ
+- (toán học) đường kính; xuyên tâm
+=diametral curve+ đường cong kính
+=diametral plane+ mặt phẳng kính, mặt phẳng xuyên tâm
+

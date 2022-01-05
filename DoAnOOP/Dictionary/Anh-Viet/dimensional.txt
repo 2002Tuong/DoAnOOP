@@ -1,0 +1,7 @@
+Pronounce:  /di'menʃənl/
+*  tính từ
+- thuộc chiều; thuộc kích thước, thuộc khổ, thuộc cỡ
+- (toán học) (thuộc) thứ nguyên
+=dimensional analysis+ phân tích thứ nguyên
+=dimensional unit+ đơn vị thứ nguyên
+

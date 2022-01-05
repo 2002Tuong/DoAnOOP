@@ -1,0 +1,6 @@
+Pronounce:  /'kæləri/ (calory) /'kæləri/
+*  danh từ
+- calo
+=large calorie; kilogram calorie+ kilocalo
+=small calorie; gram calorie+ calo
+

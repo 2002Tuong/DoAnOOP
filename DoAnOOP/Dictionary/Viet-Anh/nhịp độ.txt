@@ -1,0 +1,4 @@
+Pronounce: 
+- Rate, speed
+=Nhịp độ xây dựng nhà cửa+The rate of building housing
+

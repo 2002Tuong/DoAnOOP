@@ -1,0 +1,3 @@
+Pronounce: 
+- Commit (troops) to battle, place (troops) in battle-array
+

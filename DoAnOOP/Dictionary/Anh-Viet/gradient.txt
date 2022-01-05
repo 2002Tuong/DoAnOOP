@@ -1,0 +1,9 @@
+Pronounce:  /'greidjənt/
+*  danh từ
+- dốc, đường dốc; độ dốc
+=a steep gradient+ đường dốc tuộc
+=speed on a gradient+ tốc độ lên dốc (ôtô)
+- (vật lý) Graddien
+=temperature gradient+ graddien độ nhiệt
+=pressure gradient+ graddien áp xuất
+

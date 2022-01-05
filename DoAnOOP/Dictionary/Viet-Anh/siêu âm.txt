@@ -1,0 +1,6 @@
+Pronounce: 
+* noun
+- ultra-sound
+* adj
+- ultrasonic
+

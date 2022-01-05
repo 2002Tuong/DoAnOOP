@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- angle
+=khía cạnh+angle aspect
+

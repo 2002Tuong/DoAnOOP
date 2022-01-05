@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- rain
+=áo mưa+rain-coat
+

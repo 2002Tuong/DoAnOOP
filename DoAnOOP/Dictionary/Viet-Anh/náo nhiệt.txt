@@ -1,0 +1,5 @@
+Pronounce: 
+* adj
+- animated
+=sự náo nhiệt+animation
+

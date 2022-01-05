@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- law
+=sinh viên luật khoa+law-student
+

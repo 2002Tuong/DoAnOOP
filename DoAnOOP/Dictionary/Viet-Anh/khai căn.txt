@@ -1,0 +1,3 @@
+Pronounce: 
+- (toán) Extract the root (of a number)
+

@@ -1,0 +1,7 @@
+Pronounce:  /,pə:mju:'teiʃn/
+*  danh từ
+- sự đôi trật tự (vị trí)
+- (toán học) sự hoán vị; pháp hoán vị
+=old permutation+ phép hoán vị lẻ
+=cyclic permutation+ phép hoán vị vòng quanh
+

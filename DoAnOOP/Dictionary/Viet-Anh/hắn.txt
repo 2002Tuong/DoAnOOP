@@ -1,0 +1,5 @@
+Pronounce: 
+* pronoun
+- he; him
+=hắn đấy+It's him
+

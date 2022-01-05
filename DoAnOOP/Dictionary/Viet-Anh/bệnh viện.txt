@@ -1,0 +1,5 @@
+Pronounce: 
+* noun
+- Hospital
+=bệnh viện đa khoa+a polyclinic
+

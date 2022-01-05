@@ -1,0 +1,4 @@
+Pronounce: 
+- Windless
+=Trời hôm nay đứng gio'+It is windless today 
+

@@ -1,0 +1,4 @@
+Pronounce: 
+- Regular
+=Làm như thế là hợp cách+That is the regular way of doing things; that is the right kind of behaviour
+

@@ -1,0 +1,5 @@
+Pronounce: 
+* adj
+- dense
+=sương mù dày đặc+dense fog
+

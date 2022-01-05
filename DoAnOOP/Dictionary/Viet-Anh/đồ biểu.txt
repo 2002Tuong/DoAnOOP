@@ -1,0 +1,4 @@
+Pronounce: 
+- Diagram, graph
+=Đồ biểu thống kê+A statistical graph
+

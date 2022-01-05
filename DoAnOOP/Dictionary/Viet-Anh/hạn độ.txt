@@ -1,0 +1,4 @@
+Pronounce: 
+- Fixed degree, fixed limit
+=Tiêu tiền có hạn độ+To spend money within fixed limits
+

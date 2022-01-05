@@ -1,0 +1,13 @@
+Pronounce:  /'impækt/
+*  danh từ
+- sự va chạm, sự chạm mạnh; sức va chạm
+=head-on impact+ (vật lý) sự va chạm trực diện
+=back impact+ (vật lý) sự va chạm giật lùi
+- tác động, ảnh hưởng
+*  ngoại động từ
+- (+ in,  into) đóng chặt vào, lèn chặt vào, nêm chặt vào
+- va mạnh vào, chạm mạnh vào
+*  nội động từ
+- va mạnh, chạm mạnh
+- tác động mạnh ((nghĩa đen) & (nghĩa bóng))
+
